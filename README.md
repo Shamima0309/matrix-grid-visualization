@@ -3,8 +3,6 @@
 A tiny React app that renders a 10×10 **matrix/grid visualization** on an HTML Canvas.
 Each cell is colored by value and labeled with the number. Click **Regenerate** to create a new random matrix.
 
-Perfect for showcasing skills relevant to **Lumel Technology – React.js Fresher (matrix/grid visualization)**.
-
 ## ✨ Features
 - React + Vite setup (fast dev server, ESM)
 - Canvas-based grid for performance
@@ -47,11 +45,5 @@ npm run build
 npm run preview
 ```
 
-## 🔗 What to Share in Your Application
-- Your GitHub repo URL for this project
-- (Optional) A live demo via Netlify/Vercel after `npm run build`
+**Author:** Shamima P
 
----
-
-**Author:** Your Name  
-**Use case:** Lumel React.js Fresher – Matrix/Grid Visualization
